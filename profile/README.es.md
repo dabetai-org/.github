@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/964eff5e-4b97-4e84-bde6-9e3feb9fde55">
+    <img alt="dabetai" src="https://github.com/user-attachments/assets/964eff5e-4b97-4e84-bde6-9e3feb9fde55" width="100%">
+  </picture>
+</p>
+
 <h1 align="center">🩺 dabetai — Ecosistema Preventivo Impulsado por IA para la Diabetes</h1>
 
 <p align="center">
@@ -11,6 +18,12 @@
   <a href="https://github.com/dabetai-org/ai-api"><img src="https://img.shields.io/badge/AI_API-FastAPI-009688?logo=fastapi&logoColor=white" alt="AI API"></a>
   <a href="https://github.com/dabetai-org/ai-models"><img src="https://img.shields.io/badge/AI_Models-scikit_learn-F7931E?logo=scikitlearn&logoColor=white" alt="AI Models"></a>
   <a href="https://github.com/dabetai-org/landing"><img src="https://img.shields.io/badge/Landing-Astro-BC52EE?logo=astro&logoColor=white" alt="Landing"></a>
+  <a href="https://dabetai.netlify.app"><img src="https://img.shields.io/badge/Website-dabetai.netlify.app-4285F4?logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://chrisssp.vercel.app/assets/docs/papers/Prevenci%C3%B3n-de-Riesgos-de-la-Diabetes-Mediante-una-Plataforma-Inteligente-de-Monitorizaci%C3%B3n-y-Predicci%C3%B3n-de-Complicaciones-con-Inteligencia-Artificial.pdf"><img src="https://img.shields.io/badge/Paper-Research_Pdf-4285F4?logo=googlescholar" alt="Research Paper"></a>
+</p>
+
+<p align="center">
+  <a href="https://dabetai.netlify.app">🌐 Visita dabetai.netlify.app</a>
 </p>
 
 <p align="center">
@@ -87,5 +100,5 @@ Seguimos un flujo de trabajo estricto basado en PRs. Revisa el `CONTRIBUTING.md`
 ---
 
 <p align="center">
-  <sub>Hecho con ❤️ por el equipo dabetai · 2025</sub>
+  <sub>Hecho con ❤️ por el equipo dabetai · 2026</sub>
 </p>
